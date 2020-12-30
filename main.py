@@ -1,3 +1,5 @@
+# Sudoku Puzzle Game Self-Solver
+
 # Length of the Sudo Board is 9 rows and 9 columns....
 sudo = [
     [7, 8, 0, 4, 0, 0, 1, 2, 0],        # Row 0
